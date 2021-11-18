@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./main-body.component.css']
 })
 export class MainBodyComponent implements OnInit {
+  currentNumber{}
 
   constructor() { }
 
