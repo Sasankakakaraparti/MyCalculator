@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 # Mycalculator
 Basic calculator app
 
-=======
 # project name
 Calculator application using Angular
 
@@ -24,4 +23,3 @@ ng server to run the application
 
 # folder structure
 src/app/MyComponents/Header && MainBody && Footer conntains all the reusable components
->>>>>>> 67977132eed686eb8a863a17dbb8370f69ca3ccf

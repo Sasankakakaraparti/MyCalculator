@@ -1,3 +1,4 @@
+/** This is CSS for making template**/
 .base {
     background: darkslategray;
     margin-top: 5vh;
@@ -43,18 +44,18 @@
 }
 
 .ackey {
-    color: red;
+    color: rgb(218, 219, 230);
     background: black;
 }
 
 .equalkey {
     color: white;
-    background-color: orangered; 
+    background-color: green;
 }
 
 .numkey {
     color: skyblue;
-    background-color: grey; 
+    background-color:red 
 }
 
 .opkey {
